@@ -1,9 +1,9 @@
 # Quimiometria-com-Python
 Projeto de análise uni e multivariada de dados químicos (Quimiometria) desenvolvido utilizando linguagem Pyhton.
 
-Em desenvolvimento!!!
+## Em desenvolvimento...
 
-**Quimiometria**
+## **Quimiometria**
 
 * Definição
 > Disciplina química que usa métodos matemáticos e estatísticos, a) para projetar ou selecionar experimentos e procedimentos de medição ideais, e b) fornecer o máximo de informações químicas pela análise de dados químicos [1].
@@ -17,12 +17,12 @@ A quimiometria é aplicada para resolver problemas descritivos e preditivos. Em 
  2. Chemometrics. <https://www.sciencedirect.com/topics/chemistry/chemometrics> Acesso em: 13 Ago 2021.
  3. Chemometrics. <https://en.wikipedia.org/wiki/Chemometrics> Acesso em: 13 Ago 2021.
 
-**Objetivo**
+## **Objetivo**
 
 Esse projeto foi desenvolvido durante o curso '*Ferramentas estatísticas uni e multivariadas aplicadas à análise de alimentos*'.
 O objetivo foi desenvolver as análises quimiométricas realizadas por softwares como OringinLab, utilizando linguagem *Python*.
 
-**Python**
+## **Python**
 
 Python é uma linguagem de programação popular de código aberto (*Open Source*). Isso significa que o ele é desenvolvido sob uma licença de código aberto aprovada pela OSI, tornando-o livremente utilizável e distribuível, mesmo para uso comercial.
 
@@ -32,7 +32,7 @@ Os conjuntos de dados podem ser pequenos, mas geralmente são muito grandes e al
 
 >Sugestão de leitura para saber mais: [Primeiros passos em Data Science utilizando Python para análise de dados](https://medium.com/data-hackers/primeiros-passos-em-data-science-utilizando-python-para-an%C3%A1lise-de-dados-823436432b28)
 
-**Dados**
+## **Dados**
 
 Parte dos dados utilizados foram fornecidos pelo prof. [Dr. Elenilson Godoy](https://www.linkedin.com/in/elenilson-godoy-alves-filho-01528471/) durante o curso *Ferramentas estatísticas uni e multivariadas aplicadas à análise de alimentos* oferecido em parceria com a Universidade Federal do Ceará. 
 
